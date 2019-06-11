@@ -1,0 +1,23 @@
+//Julissa Franco
+//05/14/2019
+//Module 5 Problem 6
+// Create and print an example of each of the following Java logical operators: &&, ||, and !
+
+
+public class M5P6
+{
+  public static void main(String []args)
+  {
+   int x = 10;
+   
+   System.out.println(x < 15 && x >5);
+    
+   System.out.println(x < 5 || x >8); 
+    
+   System.out.println(!(x <15 || x> 8));
+    
+    
+  
+  }
+}  
+

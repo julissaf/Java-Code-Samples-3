@@ -1,0 +1,31 @@
+//Julissa Franco
+//05/14/2019
+
+//Module 5 Problem 5
+
+//Problem 5 -Create and print an example of each of the following Java comparism operators: ==, !=, >, <, >=, and <=
+
+
+
+public class M5P5
+{
+  public static void main(String []args)
+  {
+   int x = 10;
+   int y = 5;
+   int test1;
+    
+    System.out.println(x == y);
+    
+    System.out.println(x != y);
+    
+    System.out.println(x > y);
+    
+    System.out.println(x < y);
+    
+    System.out.println(x >= y);
+    
+    System.out.println(x <= y);
+  }
+    
+}
